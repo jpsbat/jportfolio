@@ -3,8 +3,8 @@ import './Conteudo.css';
 
 function Conteudo() {
   return (
-    <div>
-      <h1>TESTE</h1>
+    <div className='conteudo-section'>
+      <h1>Restante do conteúdo</h1>
     </div>
   );
 }
